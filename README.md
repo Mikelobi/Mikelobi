@@ -1,5 +1,5 @@
 # 💫About Me :
-Good day, I'm Omulu Michael, web developer and soon-to-be a Professional remote software engineer with knowledge in JavaScript, React, Redux, and Ruby on Rails.
+Hello there, My name is Omulu Michael, and I'm a web developer and soon-to-be professional remote software engineer with experience in JavaScript, React, Redux, and Ruby on Rails.
 
 
 ## 🌐Socials
