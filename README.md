@@ -1,3 +1,9 @@
+<div align="center"><img width=500 height=250 align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"></div>.
+<h3 align="center"> 
+  Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/Benmuiruri/count.svg" />
+</h3>
+
 # 💫About Me :
 Hello there, My name is Omulu Michael, and I'm a web developer and soon-to-be professional remote software engineer with experience in JavaScript, React, Redux, and Ruby on Rails.
 
